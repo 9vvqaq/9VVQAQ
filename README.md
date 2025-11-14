@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am an undergraduate student engaged in research on **artificial intelligence applications** and **robotic perception**. My research focuses on the application of computer vision and anomaly detection in **engineering**, integrated circuits (**EDA**), **autonomous driving**, and **robotics**.
+I am a 2027 fall undergraduate student engaged in research on **artificial intelligence applications** and **robotic perception**. My research focuses on the application of computer vision and anomaly detection in **engineering**, integrated circuits (**EDA**), **autonomous driving**, and **robotics**.
 
 I'm very eager to connect with peers/PhDs! If you're interested in my research area (or if I have potential to become your student), please don't hesitate to reach out!
 
