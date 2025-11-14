@@ -10,7 +10,7 @@ I'm very eager to connect with peers/PhDs! If you're interested in my research a
 - 🔬 Exchange Experience: **Clausthal University of Technology**, Germany; **Westlake University**, China  
 - 💻 Selected Honors: **National Scholarship**, Sichuan University Comprehensive Scholarship
 - 📧 Contact: [gaotianyu@stu.scu.edu.cn/2586810016@qq.com]
-
+- Other Interests: Soccer, electronic music, modern orchestral music, Celtic music (his label won the 2023 Hollywood Best Recording Award; his solo track reached #23 on Beatport's Electronic Music Chart in April 2018)
 ## 🚀 Featured Projects
 
 ### [Indoor Point Cloud Datasets Controllable Generation](https://github.com/YOUR_USERNAME/s3dis-lidar-simulation)
@@ -50,4 +50,5 @@ A controllable pipeline for generating synthetic mobile LiDAR datasets from stat
 ⭐️ From [Chengdu] | 🔬 Research | 💻 Open Source
 
 </div>
+
 
